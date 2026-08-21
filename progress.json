@@ -250,5 +250,14 @@
       "You have not reverted all the commits yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-revert",
+    "started_at": 1787306178.853542,
+    "completed_at": 1787306181.739644,
+    "comments": [
+      "You have not reverted all the commits yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
