@@ -142,5 +142,14 @@
       "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787300252.564369,
+    "completed_at": 1787300255.363588,
+    "comments": [
+      "You did not pull Alice's changes to your own main branch!"
+    ],
+    "status": "Incomplete"
   }
 ]
