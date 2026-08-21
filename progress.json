@@ -124,5 +124,14 @@
       "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1787299378.552267,
+    "completed_at": 1787299383.702196,
+    "comments": [
+      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
+    ],
+    "status": "Incomplete"
   }
 ]
