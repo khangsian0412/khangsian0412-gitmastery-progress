@@ -286,5 +286,14 @@
       "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787733781.643395,
+    "completed_at": 1787733784.613981,
+    "comments": [
+      "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
+    ],
+    "status": "Incomplete"
   }
 ]
